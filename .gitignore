@@ -142,3 +142,6 @@ regions_info.txt
 
 # Photos folder
 Photos/
+
+# Variables del entorno
+.vscode/
